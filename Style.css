@@ -1,0 +1,20 @@
+@media (max-width: 991px) {
+    main, body{
+        display: flex;
+    }
+}
+
+section{
+    height: 500px;
+}
+
+#navbar{
+    position: fixed !important;
+    top: 0px !important;
+    left: 0px !important;
+    width: 100% !important;
+}
+
+#welcome-section{
+    height: 754px !important;
+}
